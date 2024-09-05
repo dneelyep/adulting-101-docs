@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Adulting 101'
+copyright = '2021, Daniel Neel'
+author = 'Daniel Neel'
 
 release = '0.1'
 version = '0.1.0'
